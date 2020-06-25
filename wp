@@ -1,0 +1,1048 @@
+<html><head><script type="text/javascript" async="" src="https://sb.scorecardresearch.com/c2/18767423/cs.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-PB8NDN3&amp;t=gtm9&amp;cid=1643837140.1590196587"></script><script src="https://rules.quantcount.com/rules-p-45MMy5TH1XE82.js" async=""></script><script src="https://connect.facebook.net/signals/config/1422218544461353?v=2.9.21&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://secure.quantserve.com/quant.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-FNDTZ0MZDQ&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//a.wattpad.com/js/tracker/app.js?v=5fc4875"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WD9JLB"></script><script type="text/javascript" src="//a.wattpad.com/js/ados.min.js?v=3f457ae"></script><meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+<!--[if IE]> <html class="ie" lang="id" > <![endif]-->
+<!--[if !(IE)>    <html lang="id" > <![endif]-->
+
+<script src="//a.wattpad.com/js/boomerang.min.js?v=c414562"></script><script>
+      (function(d, s) {
+        var js = d.createElement(s),
+            sc = d.getElementsByTagName(s)[0];
+
+        js.src = "//a.wattpad.com/js/boomerang.min.js?v=c414562";
+        sc.parentNode.insertBefore(js, sc);
+        if (document.addEventListener) {
+          document.addEventListener( "onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init( {
+              beacon_url: '/v4/metrics',
+              beacon_type: 'POST',
+              autorun: false
+            } );
+          } );
+        }
+      }(document, "script"));
+    </script>
+<meta charset="utf-8">
+<link rel="shortcut icon" href="//a.wattpad.com/favicon.ico">
+<title>⠀⠀⠀ (@paletteism) - Wattpad</title>
+<link rel="preload" as="script" type="text/javascript" href="//a.wattpad.com/js/desktop-web/dependencies.min.js?v=cc6bebc">
+<link rel="preload" as="script" type="text/javascript" href="//a.wattpad.com/js/desktop-web/app.js?v=e174484">
+<link rel="preload" as="script" type="text/javascript" href="//a.wattpad.com/js/react-bundle.deps.js?v=6b24bc1">
+<link rel="preload" as="script" type="text/javascript" href="//a.wattpad.com/js/react-bundle.components.js?v=de56445">
+<link rel="canonical" href="https://www.wattpad.com/user/paletteism">
+<meta name="description" content=",..
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 1 karya, 175 pengikut">
+<meta name="google-site-verification" content="aPYlOI_DCGtIUPOJtNewq9TuUX_iJ5gGPTmYSETtVbY">
+<meta property="fb:pages" content="127093020051">
+<link rel="alternate" href="android-app://wp.wattpad/wattpad/user/paletteism?utm_source=google&amp;utm_medium=app_index">
+<link rel="alternate" type="application/rss+xml" title="RSS - paletteism" href="https://www.wattpad.com/rss?username=paletteism">
+<link rel="stylesheet" type="text/css" href="//a.wattpad.com/css/desktop-web/desktop-web.min.css?v=d18f34e">
+<style type="text/css" media="print">
+  main#parts-container-new { visibility: hidden; display: none }
+</style>
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&amp;display=swap" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+      var localStorageSupport=function(){var t,e="testKey",r="localStorage";try{return(t=window.localStorage).setItem(e,"1"),t.removeItem(e),r in window&&window[r]}catch(t){return!1}}();localStorageSupport||(window.localStorage={_data:{},setItem:function(t,e){return this._data[t]=String(e)},getItem:function(t){return this._data.hasOwnProperty(t)?this._data[t]:void 0},removeItem:function(t){return delete this._data[t]},clear:function(){return this._data={}}});var sessionStorageSupport=function(){var t,e="testKey",r="sessionStorage";try{return(t=window.sessionStorage).setItem(e,"1"),t.removeItem(e),r in window&&window[r]}catch(t){return!1}}();sessionStorageSupport||(window.sessionStorage={_data:{},setItem:function(t,e){return this._data[t]=String(e)},getItem:function(t){return this._data.hasOwnProperty(t)?this._data[t]:void 0},removeItem:function(t){return delete this._data[t]},clear:function(){return this._data={}}});
+//# sourceMappingURL=polyfill-localstorage.min.js.map
+
+</script>
+<script type="text/javascript">
+      (function(){var t;function n(t){this.callBack=t}null==window.MutationObserver&&(n.prototype.observe=function(t,n){return this.element=t,this.interval=setInterval((e=this,function(){var t;if((t=e.element.innerHTML)!==e.oldHtml)return e.oldHtml=t,e.callBack.apply(null)}),200);var e},n.prototype.disconnect=function(){return window.clearInterval(this.interval)},t=n,window.MutationObserver=t)}).call(this);
+//# sourceMappingURL=polyfill-mutationobserver.min.js.map
+
+</script>
+<script type="text/javascript">
+  ( function() {
+    var d = document;
+    var pbs = d.createElement( "script" );
+    pbs.type = "text/javascript";
+    pbs.src = "//a.wattpad.com/js/ados.min.js?v=3f457ae"
+    var target = d.getElementsByTagName( "head" )[ 0 ];
+    target.insertBefore( pbs, target.firstChild );
+  } )();
+</script>
+<script type="text/javascript">
+      "use strict";var API_VERSION=1,addFrame=function(){if(!window.frames.__uspapiLocator)if(document.body){var a=document.createElement("iframe");a.style.cssText="display:none",a.name="__uspapiLocator",document.body.appendChild(a)}else setTimeout(addFrame,5)};function __handleUspapiMessage(s){var n=s&&s.data&&s.data.__uspapiCall;n&&window.__uspapi(n.command,n.version,function(a,e){s.source.postMessage({__uspapiReturn:{returnValue:a,success:e,callId:n.callId}},"*")})}addFrame(),window.__uspapi=function(a,e,s){"function"==typeof s?"getUSPData"===a&&e===API_VERSION?s({version:API_VERSION,uspString:wattpad.usprivacy?wattpad.usprivacy:API_VERSION+"---"},!0):s(null,!1):console.error("__uspapi: callback parameter not a function")},window.addEventListener("message",__handleUspapiMessage,!1);
+//# sourceMappingURL=ccpa.min.js.map
+
+</script>
+<script type="text/javascript" src="//a.wattpad.com/js/index-universal-wrapper.js?v=6273794"></script>
+</head>
+<body class="touchDisabled route-userProfile" dir="ltr">
+<script type="text/javascript">
+      var getParameterByName =  function (name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&?#]*)"),
+          results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+      }
+      var search = [
+        {urlParam: 'utm_source', key: 'source'},
+        {urlParam: 'utm_medium', key: 'medium'},
+        {urlParam: 'utm_campaign', key: 'campaign'},
+        {urlParam: 'utm_content', key: 'content'},
+        {urlParam: 'wp_originator', key: 'originator'},
+        {urlParam: 'wp_uname', key: 'wp_username'},
+        {urlParam: 'wp_page', key: 'page'}
+      ];
+
+      window._utms = window._utms || {};
+      for (var i = 0; i < search.length; i++) {
+        var match = getParameterByName(search[i].urlParam);
+        if ( match !== "") {
+          window._utms[search[i].key] = match;
+        }
+      }
+    </script>
+<script type="text/javascript">window.dataLayer=[];</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WD9JLB"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WD9JLB');</script>
+<div id="modals"> <div id="languageModal" class="modal-language modal fade hide" role="dialog" aria-labelledby="Bahasa" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+<iframe src="" frameborder="0" name="languageiframe" __idm_frm__="723"></iframe>
+</div>
+</div>
+</div>
+</div>
+<div id="generic-modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="header-container" style="display: table;">
+<div role="banner" id="header" style="display: table;">
+<nav role="navigation">
+<ul class="list-inline">
+<li id="header-item-logo">
+<a class="on-navigate" href="/home" title="Wattpad Home" aria-label="Halaman utama">
+&nbsp;
+</a>
+</li>
+<li id="discover-dropdown" class="button-group dropdown">
+<a href="#" data-toggle="dropdown">Jelajahi <span class="caret"></span></a>
+<div class="triangle"></div>
+ <div class="dropdown-menu new-curation large" aria-labelledby="browse-dropdown">
+<div class="col-xs-9 discover-categories">
+<ul class="row">
+<li class="title col-xs-12" aria-label="Browse Topics">Jelajahi</li>
+<li class="col-xs-4">
+<a href="/catalog/paidstories" class="on-navigate on-topic">Paid Stories</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/humor" class="on-navigate on-topic">Humor</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/romance" class="on-navigate on-topic">Romance</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/adventure" class="on-navigate on-topic">Adventure</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/lgbt" class="on-navigate on-topic">LGBTQ+</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/sciencefiction" class="on-navigate on-topic">Science Fiction</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/diverselit" class="on-navigate on-topic">Diverse Lit</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/mystery" class="on-navigate on-topic">Mystery</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/shortstory" class="on-navigate on-topic">Short Story</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/fanfiction" class="on-navigate on-topic">Fanfiction</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/newadult" class="on-navigate on-topic">New Adult</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/teenfiction" class="on-navigate on-topic">Teen Fiction</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/fantasy" class="on-navigate on-topic">Fantasy</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/nonfiction" class="on-navigate on-topic">Non-Fiction</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/thriller" class="on-navigate on-topic">Thriller</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/historicalfiction" class="on-navigate on-topic">Historical Fiction</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/paranormal" class="on-navigate on-topic">Paranormal</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/urban" class="on-navigate on-topic">Urban</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/horror" class="on-navigate on-topic">Horror</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/poetry" class="on-navigate on-topic">Poetry</a>
+</li>
+<li class="col-xs-4">
+<a href="/stories/werewolf" class="on-navigate on-topic">Werewolf</a>
+</li>
+</ul>
+</div>
+<div class="col-xs-3 wattpad-picks">
+ <ul class="row" aria-label="Wattpad Picks">
+<li class="title col-xs-12">Pilihan Wattpad</li>
+<li class="col-xs-12">
+<a href="/featured/613362344" class="on-navigate">Daftar Cerita Istimewa</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li id="community-dropdown" class="button-group dropdown hidden-xs hidden-sm">
+<a href="#" data-toggle="dropdown">Komunitas <span class="caret"></span></a>
+<div class="triangle"></div>
+<div class="dropdown-menu large" aria-labelledby="community-dropdown">
+<ul aria-label="Forum">
+<li><a href="https://www.wattpadwriters.com">Forum</a></li>
+<li>
+<a href="/awards">
+Watty Awards
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</nav>
+<div id="header-item-search" aria-label="Telusuri">
+<div><form class="form-horizontal dropdown" role="form" name="search" action="/search/" autocomplete="off">
+<div class="loading-icon"></div>
+<button type="submit">
+<span class="fa fa-search fa-wp-neutral-1 " aria-hidden="true" style="font-size:18px;"></span>
+</button>
+<input id="search-query" placeholder="Telusuri" name="q" type="text" role="search" spellcheck="false" aria-label="Telusuri" value="">
+<input type="hidden" name="ref" value="1">
+<div class="dropdown-menu items" aria-label="search-dropdown">
+<ul aria-label="Lengkapi secara otomatis" class="autocomplete-item-container"></ul>
+</div>
+<div class="triangle"></div>
+</form>
+</div>
+</div>
+<nav role="navigation">
+<ul class="list-inline">
+<li class="button-group dropdown hidden-xs hidden-sm">
+<a href="#" data-toggle="dropdown">Tulis <span class="caret"></span></a>
+<div class="triangle"></div>
+<div class="dropdown-menu large" aria-labelledby="create-dropdown">
+<ul aria-label="Tulis">
+<li>
+<a href="/myworks/new" rel="nofollow" aria-label="Buat cerita baru">
+<img alt="Buat cerita baru" src="//a.wattpad.com/img/icons/create-story.svg?v=ed1a145">Buat cerita baru
+</a>
+</li>
+<li>
+<a href="/myworks" rel="nofollow" aria-label="Cerita saya">Cerita saya</a>
+</li>
+<li role="presentation" class="divider"></li>
+<li>
+<a href="/go/writing-contests/">Kontes Menulis</a></li>
+</ul>
+</div> </li>
+</ul>
+</nav>
+<div id="go-premium-button">
+<div class="component-wrapper" id="component-trypremium-header-/user/paletteism"><a href="https://www.wattpad.com/premium" class="try-premium on-premium btn-primary" target="_blank" rel="noopener noreferrer"><svg width="20" height="20" viewBox="0 0 24 24" fill="#e81249" stroke="#e81249" stroke-width="2" aria-hidden="true" stroke-linecap="round" stroke-linejoin="round" class="zap-icon"><g><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></g></svg><div class="button-copy">Coba Premium</div></a></div>
+</div>
+<div id="profile-dropdown" class="button-group dropdown" role="menu" aria-label="Pengguna">
+<a href="#" data-toggle="dropdown">
+<div class="avatar avatar-sm">
+<img src="https://a.wattpad.com/useravatar/paletteism.24.474053.jpg" width="25" height="25" alt="paletteism">
+</div>
+<span class="username hidden-xs  hidden-sm hidden-md ">
+paletteism
+</span>
+<span class="caret"></span>
+</a>
+<div class="triangle"></div>
+<div class="dropdown-menu dropdown-menu-right large" role="menu" aria-labelledby="profile-dropdown">
+<ul aria-label="Profil">
+<li><a class="on-navigate" href="/user/paletteism">Profil saya</a></li>
+<li role="presentation" class="divider"></li>
+<li><a href="/inbox">Kotak masuk
+</a></li>
+<li><a class="on-navigate" href="/notifications">Notifikasi
+</a></li>
+<li><a class="on-navigate" href="/newsfeed">Kronologi aktivitas</a></li>
+<li><a class="on-navigate" href="/library">Perpustakaan</a></li>
+<li><a href="/invite_friends">Undang teman</a></li>
+<li role="presentation" class="divider"></li>
+<li><a href="/settings/language?jq=true" class="on-language" data-ignore="true">Bahasa: English</a></li>
+<li><a href="//support.wattpad.com">Bantuan</a></li>
+<li>
+<a class="on-navigate" href="/settings">Pengaturan</a>
+</li>
+<li><a href="/logout" class="on-logout">Logout</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="react-client-root"></div>
+<div id="app-container"> <div class="profile-layout">
+<div id="follower-modal"></div>
+<div class="component-wrapper" id="component-wpmodal-paletteism-/user/paletteism"></div>
+<div id="edit-controls" class="hidden faded edit-profile clearfix">
+<div class="container">
+<strong>Sedang mengedit profil Anda</strong>
+<div class="actions pull-right">
+<button class="btn btn-orange on-edit-save">Simpan perubahan</button>
+<button class="btn btn-grey on-edit-cancel">Batalkan</button>
+</div>
+</div>
+</div>
+<header class="background background-lg" style="background-image: url( 'https://a.wattpad.com/userbgs/paletteism.1920.70350.jpg' );">
+<div id="edit-overlay" class="hidden faded edit-profile"></div>
+<div id="edit-background" class="hidden faded edit-profile center-block">
+<span class="loading faded"></span>
+<button class="btn btn-glass"><span class="fa fa-camera fa-wp-neutral-5 " aria-hidden="true" style="font-size:16px;"></span> Ubah gambar latar belakang</button>
+</div>
+<div class="avatar avatar-profile center-block">
+<div class="component-wrapper" id="component-avatar-display-/user/paletteism"><img src="https://a.wattpad.com/useravatar/paletteism.128.474053.jpg" aria-hidden="true" alt="paletteism"></div>
+<div id="edit-avatar" class="hidden faded edit-profile">
+<span class="loading-bg faded"></span>
+<span class="loading faded"></span>
+<button><span class="fa fa-camera fa-wp-neutral-5 " aria-hidden="true" style="font-size:60px;"></span></button>
+</div>
+</div>
+<div class="badges">
+<h1 class="profile-name h3" aria-label="Profil ⠀⠀⠀">
+⠀⠀⠀
+</h1>
+</div>
+<p id="alias" aria-label="also known as paletteism.">@paletteism</p>
+<div id="edit-name" class="hidden faded edit-profile center-block">
+<input type="text" class="form-control" data-field="name" value="⠀⠀⠀" placeholder="Nama lengkap">
+</div>
+<div class="row header-metadata">
+<div class="col-xs-4 scroll-to-element" data-id="profile-works">
+<p>1</p>
+<p>Karya</p>
+</div>
+<div class="col-xs-4 " data-id="profile-lists">
+<p>0</p>
+<p>Daftar bacaan</p>
+</div>
+<div class="col-xs-4 on-followers">
+<p class="followers-count">175</p>
+<p>Pengikut</p>
+</div>
+ </div>
+<div id="page-navigation" class="sub-navigation">
+<div id="edit-navblock" class="hidden faded edit-profile"></div>
+<div class="container">
+<div class="navigation-content">
+<nav role="navigation"><ul>
+<li data-section="about" class="active">
+<a href="/user/paletteism" class="on-nav-item">Perihal</a>
+</li>
+<li data-section="conversations" class="">
+<a href="/user/paletteism/conversations" class="on-nav-item">Percakapan</a>
+</li>
+<li data-section="following" class="">
+<a href="/user/paletteism/following" class="on-nav-item">Mengikuti</a>
+</li>
+</ul></nav>
+<div class="actions" role="menu">
+<span class="user-balance">
+<div class="component-wrapper" id="component-walletwithonboarding-profile-/user/paletteism"><button class="default wallet" title="Dompet dengan 0 Koin"><img src="/img//paid-content/coin-icon.svg" alt="Koin" class="coin-icon"><span class="num-coins divider-right">-</span><div class="get-coins"><span class="fa fa-plus fa-wp-neutral-1" aria-hidden="true" style="font-size: 12px;"></span></div></button></div>
+</span>
+<button class="btn btn-white on-edit-profile">
+<span class="fa fa-settings fa-wp-neutral-2 " aria-hidden="true" style="font-size:16px;"></span> <span class="hidden-xs">Edit profil</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</header>
+<main id="content" class="container" role="main"><div class="user-information row">
+<div class="col-sm-12 col-md-4">
+<br>
+<section id="profile-request"></section>
+<section id="profile-about"><div class="about-info panel panel-default2"><div class="panel-body">
+  <div class="description">
+      <pre>,..
+<img src=" https://i.imgur.com/3wSIMgM.gif ">
+<br><br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</pre>
+  </div>
+
+
+  <ul class="list-unstyled user-meta-info row">
+    <li class="location col-xs-12 col-sm-12">
+      <span class="user-meta-info-content">
+        <span class="fa fa-location fa-wp-neutral-2 " aria-hidden="true" style="font-size:16px;"></span>someone's mind
+      </span>
+    </li>
+
+    <li class="date col-xs-12 col-sm-12">
+      <span class="user-meta-info-content">
+        <span>Bergabung</span>September 15, 2016
+
+        
+      </span>
+    </li>
+  </ul>
+
+
+  <hr>
+  <div id="following-panel">
+    <div class="title">Mengikuti</div>
+
+    <div class="users clearfix" data-section="following">
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/JOOLISH">
+        <img src="https://a.wattpad.com/useravatar/JOOLISH.42.849567.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/baeriel">
+        <img src="https://a.wattpad.com/useravatar/baeriel.42.114395.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/angelbIood">
+        <img src="https://a.wattpad.com/useravatar/angelbIood.42.856803.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/jourette">
+        <img src="https://a.wattpad.com/useravatar/jourette.42.281533.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/titlestar">
+        <img src="https://a.wattpad.com/useravatar/titlestar.42.770770.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/Stray-berry">
+        <img src="https://a.wattpad.com/useravatar/Stray-berry.42.835185.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/ongzarella">
+        <img src="https://a.wattpad.com/useravatar/ongzarella.42.788264.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/yolgurt">
+        <img src="https://a.wattpad.com/useravatar/yolgurt.42.27139.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/fortunaet">
+        <img src="https://a.wattpad.com/useravatar/fortunaet.42.978267.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/angellian_">
+        <img src="https://a.wattpad.com/useravatar/angellian_.42.484991.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/jihuux">
+        <img src="https://a.wattpad.com/useravatar/jihuux.42.392635.jpg">
+      </a>
+      <a class="avatar avatar-sm2 on-navigate pull-left hide" href="/user/VULPESTRAY">
+        <img src="https://a.wattpad.com/useravatar/VULPESTRAY.42.806942.jpg">
+      </a>
+
+
+      <a href="/user/paletteism/following" class="on-nav-item on-navigate num-following pull-left tablet-break hide">+9</a>
+
+      <a href="/user/paletteism/following" class="on-nav-item on-navigate num-following pull-left desktop-break hide">+8</a>
+
+      <a href="/user/paletteism/following" class="on-nav-item on-navigate num-following pull-left desktop-wide-break hide">+6</a>
+    </div>
+  </div>
+
+  <hr>
+  <div id="profile-share-links">
+    <div class="title">Bagikan profil</div>
+    <div class="social-share-links">
+    <a data-gtm-action="share:facebook" class="share-facebook social-share" target="_blank" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.wattpad.com%2Fpaletteism%3Futm_source%3Dweb%26utm_medium%3Dfacebook%26utm_content%3Dshare_profile" data-share-channel="facebook"><span class="fa fa-facebook fa-wp-neutral-5 " aria-hidden="true" style="font-size:18px;"></span></a>
+    <a data-gtm-action="share:twitter" class="share-twitter social-share" target="_blank" href="https://twitter.com/intent/tweet?text=Lihat+profil+saya+di+%23Wattpad%2C+saya+%E2%A0%80%E2%A0%80%E2%A0%80&amp;url=https%3A%2F%2Fwww.wattpad.com%2Fpaletteism%3Futm_source%3Dweb%26utm_medium%3Dtwitter%26utm_content%3Dshare_profile" data-share-channel="twitter" data-share-url="https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3D%25s%26url%3D%25s" data-url="https%3A%2F%2Fwww.wattpad.com%2Fpaletteism" data-share-text="Lihat+profil+saya+di+%23Wattpad%2C+saya+%E2%A0%80%E2%A0%80%E2%A0%80" data-share-content="share_profile"><span class="fa fa-twitter fa-wp-neutral-5 " aria-hidden="true" style="font-size:18px;"></span></a>
+    <a data-gtm-action="share:pinterest" class="share-pinterest social-share" target="_blank" href="https://www.pinterest.com/pin/create/button/?media=https%3A%2F%2Fa.wattpad.com%2Fuseravatar%2Fpaletteism.128.474053.jpg&amp;description=Lihat+profil+saya+di+Wattpad%2C+saya+%E2%A0%80%E2%A0%80%E2%A0%80+%2C..%0A%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80&amp;url=https%3A%2F%2Fwww.wattpad.com%2Fpaletteism%3Futm_source%3Dweb%26utm_medium%3Dpinterest%26utm_content%3Dshare_profile" data-share-channel="pinterest"><span class="fa fa-pinterest fa-wp-neutral-5 " aria-hidden="true" style="font-size:18px;"></span></a>
+    <a data-gtm-action="share:tumblr" class="share-tumblr social-share" target="_blank" href="https://tumblr.com/widgets/share/tool?posttype=photo&amp;content=https%3A%2F%2Fa.wattpad.com%2Fuseravatar%2Fpaletteism.128.474053.jpg&amp;caption=Lihat+profil+saya+di+Wattpad%2C+saya+%E2%A0%80%E2%A0%80%E2%A0%80+https%3A%2F%2Fwww.wattpad.com%2Fpaletteism%3Futm_source%3Dweb%26utm_medium%3Dtumblr%26utm_content%3Dshare_profile+%2C..%0A%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80&amp;tags=books%2Cwattpad%2Camreading&amp;canonicalUrl=https%3A%2F%2Fwww.wattpad.com%2Fpaletteism&amp;clickthroughUrl=https%3A%2F%2Fwww.wattpad.com%2Fpaletteism%3Futm_source%3Dweb%26utm_medium%3Dtumblr%26utm_content%3Dshare_profile" data-share-channel="tumblr" data-share-url="https%3A%2F%2Ftumblr.com%2Fwidgets%2Fshare%2Ftool%3Fposttype%3Dphoto%26content%3Dhttps%253A%252F%252Fa.wattpad.com%252Fuseravatar%252Fpaletteism.128.474053.jpg%26caption%3D%25s%26tags%3Dbooks%252Cwattpad%252Camreading%26canonicalUrl%3Dhttps%253A%252F%252Fwww.wattpad.com%252Fpaletteism%26clickthroughUrl%3D%25s" data-url="https%3A%2F%2Fwww.wattpad.com%2Fpaletteism" data-share-text="Lihat+profil+saya+di+Wattpad%2C+saya+%E2%A0%80%E2%A0%80%E2%A0%80+https%3A%2F%2Fwww.wattpad.com%2Fpaletteism%3Futm_source%3Dweb%26utm_medium%3Dtumblr%26utm_content%3Dshare_profile+%2C..%0A%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80" data-share-content="share_profile"><span class="fa fa-tumblr fa-wp-neutral-5 " aria-hidden="true" style="font-size:18px;"></span></a>
+    <a data-gtm-action="share:email" class="share-email" href="mailto:?subject=Lihat%20profil%20saya%20di%20Wattpad%2C%20saya%20%E2%A0%80%E2%A0%80%E2%A0%80&amp;body=Lihat%20profil%20saya%20di%20Wattpad%2C%20saya%20%E2%A0%80%E2%A0%80%E2%A0%80%0Ahttps%3A%2F%2Fwww.wattpad.com%2Fpaletteism%3Futm_source%3Dweb%26utm_medium%3Demail%26utm_content%3Dshare_profile%0A%2C..%0A%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80" data-share-channel="email"><span class="fa fa-inbox fa-wp-neutral-5 " aria-hidden="true" style="font-size:18px;"></span></a>
+</div>
+
+  </div>
+
+</div>
+</div>
+</section>
+<section id="profile-pinned-item"><div class="pinned-message"></div></section>
+</div>
+<div class="col-sm-8">
+<br>
+<section id="profile-works"><div class="profile-works-content"><div id="preview-modal"></div>
+
+<div class="panel panel-default2">
+
+  <header class="panel-heading">
+    <a href="/myworks" class="settings on-navigate"><span class="fa fa-settings fa-wp-neutral-2 " aria-hidden="true" style="font-size:24px;"></span></a>
+
+    <div class="panel-title">
+      Cerita oleh ⠀⠀⠀
+    </div>
+
+    <ul class="metadata">
+      <li>1 cerita dipublikasikan</li>
+
+      <li>
+      27 draf (hanya dapat dilihat oleh Anda)
+      </li>
+    </ul>
+  </header>
+
+  <div class="panel-body">
+    <div id="works-item-view"><div class="discover-module-stories-large on-discover-module-item"><a class="send-cover-event on-story-preview cover cover-home" data-story-id="214701889" href="/story/214701889-softcore">
+    <div class="fixed-ratio fixed-ratio-cover">
+            <img src="https://a.wattpad.com/cover/214701889-144-k62388.jpg" alt="softcore oleh paletteism">
+    </div>
+</a>
+    <div class="content" data-target="214701889" data-type="stories">
+
+        <a class="title meta on-story-preview" data-story-id="214701889" href="/story/214701889-softcore">
+            softcore
+        </a>
+
+
+            <div class="meta social-meta">
+                <span class="read-count">
+                    <span class="fa fa-view fa-wp-neutral-2 " aria-hidden="true" style="font-size:15px;"></span> 38
+                </span>
+
+                <span class="vote-count">
+                    <span class="fa fa-vote fa-wp-neutral-2 " aria-hidden="true" style="font-size:15px;"></span> 7
+                </span>
+
+                <span class="part-count">
+                    <span class="fa fa-list fa-wp-neutral-2 " aria-hidden="true" style="font-size:15px;"></span> 6
+                </span>
+            </div>
+
+        <div class="description">sentuhan subtil interesan; kelak membumikan arsa dan sukma seseorang</div>
+
+            <div class="tag-ranking">
+              <img src="/img//shared/ranking-medal-grey.png" alt="ranking" class="tag-ranking-medal" id="undefined" height="27" width="22">
+              <span>#<b>903</b> dalam <b>bahasa</b></span>
+              <a href="https://www.wattpad.com/story/214701889-softcore/rankings" class="on-ranking-navigate">Lihat semua peringkat</a>
+            </div>
+
+        
+        <span class="work-state">Dipublikasikan</span>
+
+    </div>
+
+</div><div class="discover-module-stories-large on-discover-module-item"><a class="send-cover-event on-story-preview cover cover-home" data-story-id="216300245" href="/story/216300245-dating-the-moon">
+    <div class="fixed-ratio fixed-ratio-cover">
+            <img src="https://a.wattpad.com/cover/216300245-144-k457526.jpg" alt="dating the moon oleh paletteism">
+    </div>
+</a>
+    <div class="content" data-target="216300245" data-type="stories">
+
+        <a class="title meta on-story-preview" data-story-id="216300245" href="/story/216300245-dating-the-moon">
+            dating the moon
+        </a>
+
+
+            <div class="meta social-meta">
+                <span class="read-count">
+                    <span class="fa fa-view fa-wp-neutral-2 " aria-hidden="true" style="font-size:15px;"></span> 0
+                </span>
+
+                <span class="vote-count">
+                    <span class="fa fa-vote fa-wp-neutral-2 " aria-hidden="true" style="font-size:15px;"></span> 0
+                </span>
+
+                <span class="part-count">
+                    <span class="fa fa-list fa-wp-neutral-2 " aria-hidden="true" style="font-size:15px;"></span> 1
+                </span>
+            </div>
+
+        <div class="description">kronologi seperdua malam kacau balau</div>
+
+            <div class="tag-meta clearfix">
+              <ul class="tag-items">
+              </ul>
+            
+            </div>
+
+                <span class="work-state draft">Draf <span class="text">(hanya dapat dilihat oleh Anda)</span></span>
+        
+    </div>
+
+</div><div class="discover-module-stories-large on-discover-module-item"><a class="send-cover-event on-story-preview cover cover-home" data-story-id="215856897" href="/story/215856897-ursula">
+    <div class="fixed-ratio fixed-ratio-cover">
+            <img src="https://a.wattpad.com/cover/215856897-144-k304926.jpg" alt="ursula oleh paletteism">
+    </div>
+</a>
+    <div class="content" data-target="215856897" data-type="stories">
+
+        <a class="title meta on-story-preview" data-story-id="215856897" href="/story/215856897-ursula">
+            ursula
+        </a>
+
+
+            <div class="meta social-meta">
+                <span class="read-count">
+                    <span class="fa fa-view fa-wp-neutral-2 " aria-hidden="true" style="font-size:15px;"></span> 1
+                </span>
+
+                <span class="vote-count">
+                    <span class="fa fa-vote fa-wp-neutral-2 " aria-hidden="true" style="font-size:15px;"></span> 0
+                </span>
+
+                <span class="part-count">
+                    <span class="fa fa-list fa-wp-neutral-2 " aria-hidden="true" style="font-size:15px;"></span> 1
+                </span>
+            </div>
+
+        <div class="description">aku merasa sempurna. aku ulangi lagi. aku merasa sempurna.</div>
+
+            <div class="tag-meta clearfix">
+              <ul class="tag-items">
+                  <li>
+                      <a class="tag-item on-navigate" href="/stories/hyunsung">hyunsung</a>
+                  </li>
+              </ul>
+            
+            </div>
+
+                <span class="work-state draft">Draf <span class="text">(hanya dapat dilihat oleh Anda)</span></span>
+        
+    </div>
+
+</div></div>
+  </div>
+
+  <div class="show-more center-text">
+    <button class="btn btn-grey on-showmore">
+      <span class="show-more-message">
+        <span>Tampilkan lainnya</span>
+        <span class="fa fa-down-small fa-wp-neutral-2"></span>
+      </span>
+      <span class="loading-message hidden">
+        <span class="fa fa-loading fa-spin fa-wp-neutral-2 loading-spinner fa-spin-fix-position" aria-hidden="true" style="font-size:16px;"></span>
+        <span> Memuat...</span>
+      </span>
+    </button>
+  </div>
+</div>
+</div>
+</section>
+<section id="profile-lists"><div class="reading-lists"><div class="panel panel-default2 empty-placeholder">
+  <header class="panel-heading">
+    <div class="panel-title"></div>
+    <div class="panel-subtitle"></div>
+  </header>
+
+  <div class="panel-body">
+    <div class="no-reading-list">
+      <button class="btn btn-md btn-orange on-create-list">Buat daftar bacaan</button>
+    </div>
+
+    <div class="story-cover">
+      <div class="fixed-ratio fixed-ratio-cover">
+      </div>
+    </div><!--
+
+ --><div class="story-cover">
+      <div class="fixed-ratio fixed-ratio-cover">
+      </div>
+    </div><!--
+
+ --><div class="story-cover">
+      <div class="fixed-ratio fixed-ratio-cover">
+      </div>
+    </div><!--
+
+ --><div class="story-cover">
+      <div class="fixed-ratio fixed-ratio-cover">
+      </div>
+    </div>
+  </div>
+</div>
+</div></section>
+<section id="profile-message" class="message-user"></section>
+</div>
+</div>
+</main>
+<div class="profile-options-modal">
+<section class="modal profile-modal fade" id="userMute" tabindex="-1" role="dialog" aria-labelledby="userModal" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<header class="modal-header">
+<div class="pull-right top-right close" data-dismiss="modal"><span class="fa fa-remove fa-wp-neutral-2 " aria-hidden="true" style="font-size:16px;"></span></div>
+<h3 class="modal-title" id="myModalLabel">Ignore User</h3>
+</header>
+<div class="modal-body">
+<p>Both you and this user will be prevented from:</p>
+<ul>
+<li>Messaging each other</li>
+<li>Commenting on each other's stories</li>
+<li>Dedicating stories to each other</li>
+<li>Following and tagging each other</li>
+</ul>
+<p><strong>Note:</strong><br>You will still be able to view each other's stories.</p>
+</div>
+<footer class="modal-footer">
+<a href="//support.wattpad.com/hc/articles/201463560" class="pull-left"><small>More Info</small></a>
+<a role="button" href="#" class="btn btn-orange on-mute-user">Lanjutkan</a>
+</footer>
+</div>
+</div>
+</section>
+<section class="modal profile-modal fade" id="userClose" tabindex="-1" role="dialog" aria-labelledby="userClose" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<header class="modal-header">
+<div class="pull-right top-right close" data-dismiss="modal"><span class="fa fa-remove fa-wp-neutral-2 " aria-hidden="true" style="font-size:16px;"></span></div>
+<h3 class="modal-title" id="myModalLabel">Close User Account</h3>
+</header>
+<div class="modal-body">
+<p>Select Reason:</p>
+<select id="close-reason">
+<option value="banned_explicit">Banned - Explicit</option>
+<option value="banned_self_harm">Banned - Self Harm</option>
+<option value="copyright">Copyright Infringement</option>
+<option value="csem">CSEM found</option>
+<option value="csem_image_moderation">CSEM found by image moderation</option>
+<option value="cyberbullying_harassment">Cyberbullying/Harassment</option>
+<option value="extremism">Extremism</option>
+<option value="poaching">Poaching</option>
+<option value="previous_account_closed">Previous account closed</option>
+<option value="sexual_messaging">Sexual Messaging</option>
+<option value="spam">Spam</option>
+<option value="underage">Underage</option>
+</select>
+</div>
+<footer class="modal-footer">
+<a role="button" href="#" class="btn btn-orange on-close-user-account">Tutup akun</a>
+</footer>
+</div>
+</div>
+</section>
+<section class="modal profile-modal fade" id="userTimeout" tabindex="-1" role="dialog" aria-labelledby="userTimeout" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<header class="modal-header">
+<div class="pull-right top-right close" data-dismiss="modal"><span class="fa fa-remove fa-wp-neutral-2 " aria-hidden="true" style="font-size:16px;"></span></div>
+<h3 class="modal-title" id="myModalLabel">User Time-Out</h3>
+</header>
+<div class="modal-body">
+<p>Duration:</p>
+<select id="timeout-duration">
+<option value="86400">1 Day</option>
+<option value="172800">2 Days</option>
+</select>
+<p>Reason:</p>
+<textarea class="form-control" role="textbox" aria-multiline="true" id="timeout-reason" name="timeout-reason" rows="10" cols="46"></textarea>
+</div>
+<footer class="modal-footer">
+<button type="button" class="btn btn-orange on-timeout-user">Simpan</button>
+</footer>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<footer id="footer-container">
+<footer id="footer">
+<ul class="footer-list main" role="navigation" aria-label="Footer Links">
+<li><a href="/paidstories" aria-label="Paid Stories">Paid Stories</a></li>
+<li><a class="on-premium" href="/premium" aria-label="Coba Premium">Coba Premium</a></li>
+<li><a href="/getmobile" aria-label="Dapatkan Aplikasinya">Dapatkan Aplikasinya</a></li>
+<li><a href="/settings/language?jq=true" class="on-language" rel="nofollow" aria-label="Bahasa">Bahasa</a></li>
+<li><a href="/writers" aria-label="Penulis">Penulis</a></li>
+<li>|</li>
+<li><a href="http://business.wattpad.com" aria-label="Bisnis">Bisnis</a></li>
+<li><a href="https://company.wattpad.com/work-at-wattpad" aria-label="Pekerjaan">Pekerjaan</a></li>
+<li><a href="https://company.wattpad.com/press" aria-label="Pers">Pers</a></li>
+</ul>
+<ul class="footer-list legal" role="navigation" aria-label="Legal Footer Links">
+<li><a href="/terms" rel="nofollow" aria-label="Persyaratan">Persyaratan</a></li>
+<li><a href="/privacy" rel="nofollow" aria-label="Privasi">Privasi</a></li>
+<li><a href="https://support.wattpad.com" aria-label="Bantuan">Bantuan</a></li>
+<li>© 2020 Wattpad</li>
+</ul>
+</footer>
+</footer>
+<div id="interstitial-container" class="container"></div>
+<div id="toast-container"></div>
+<div id="react-popover"></div>
+<div id="ad-bait" class="pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links" style="display: none;">&nbsp;</div>
+<script type="text/javascript">
+        window.prefetched = {"user.paletteism":{"data":[{"username":"paletteism","avatar":"https://a.wattpad.com/useravatar/paletteism.128.474053.jpg","isPrivate":false,"backgroundUrl":"https://a.wattpad.com/userbg/paletteism.70350.jpg","follower":false,"following":false,"name":"⠀⠀⠀","description":",..\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀","gender":"tidak diketahui","language":1,"locale":"id_ID","createDate":"2016-09-14T22:33:28Z","location":"someone's mind","verified":false,"ambassador":false,"facebook":"","twitter":"","website":"","smashwords":"","numStoriesPublished":1,"numFollowing":12,"numFollowers":175,"numLists":0,"verified_email":true,"allowCrawler":true,"birthdate":"1999-10-06T07:00:00Z","is_staff":false,"inbox":{"unread":0,"total":24},"notifications":{"unread":0},"age":20,"email":"tiaramhrnii@gmail.com","beta_enabled":false,"campfire_enabled":true,"new_home_enabled":true,"gemini_enabled":true,"gemini_welcome_story_id":9341306,"gemini_welcome_part_id":296285898,"gemini_welcome_message":"Selamat datang di profil baru Anda!","gemini_welcome_part_url":"https://www.wattpad.com/296285898-news-updates-august-16th-2016-the-new-wattpad","story_links_enabled":false,"wtg_status":null,"recommendedTags":["lgbt","taehyung","bangtan","jimin","shortstory","dark","jeongguk","bts","romance","jungkook"],"isMature":true,"has_accepted_latest_tos":true,"appear_offline":0,"show_name":1,"show_age":null,"notificationSettings":{"alerts":1,"alertssub":true,"alertssub_broadcast":true,"subscribe":1},"highlight_colour":"#D1A675","html_enabled":false,"wattpad_squad":false,"programs":{"wattpad_stars":false},"externalId":"d7d7183cfa5d8d5d9f2a808de786c7718cf9c588","isPremium":false,"id":116797895,"ga":{"logged":"1","created":"20160914","group":"20"},"isSysAdmin":false,"country":"ID","max_parts":200,"premium":false,"had_previous_subscription":false,"tier":0,"firstName":"⠀⠀⠀","lastName":""}]},"user.paletteism.profile.works.all":{"data":{"stories":[{"id":"214701889","title":"softcore","voteCount":7,"readCount":38,"commentCount":0,"description":"sentuhan subtil interesan; kelak membumikan arsa dan sukma seseorang","cover":"https://a.wattpad.com/cover/214701889-256-k62388.jpg","completed":false,"tags":["changlix","fiksi","straykids"],"rating":4,"mature":true,"url":"https://www.wattpad.com/story/214701889-softcore","firstPartId":905963125,"numParts":6,"lastPublishedPart":{"id":909221644,"createDate":"2020-06-24T05:35:01Z"},"parts":[{"id":905963125,"title":"i n t r o","url":"https://www.wattpad.com/905963125-softcore-i-n-t-r-o","rating":0,"draft":false,"modifyDate":"2020-06-20T23:39:53Z","createDate":"2020-06-18T11:09:05Z","length":1048,"videoId":"","photoUrl":"","commentCount":0,"voteCount":3,"readCount":12,"voted":false},{"id":907342834,"title":"⠀⠀⠀⠀⠀⒜","url":"https://www.wattpad.com/907342834-softcore-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%92%9C","rating":0,"draft":false,"modifyDate":"2020-06-20T22:09:25Z","createDate":"2020-06-20T22:09:22Z","length":1872,"videoId":"","photoUrl":"","commentCount":0,"voteCount":2,"readCount":8,"voted":false},{"id":908730255,"title":"⠀⠀⠀⠀⠀⒝₁","url":"https://www.wattpad.com/908730255-softcore-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%92%9D%E2%82%81","rating":0,"draft":false,"modifyDate":"2020-06-23T09:25:27Z","createDate":"2020-06-23T09:25:24Z","length":2038,"videoId":"","photoUrl":"","commentCount":0,"voteCount":2,"readCount":7,"voted":true},{"id":843804718,"title":"0","url":"https://www.wattpad.com/843804718-softcore-0","rating":0,"draft":true,"modifyDate":"2020-06-24T05:33:53Z","createDate":"2020-02-28T12:46:16Z","length":2078,"videoId":"","photoUrl":"","commentCount":0,"voteCount":0,"readCount":7,"voted":false},{"id":903618377,"title":"drft","url":"https://www.wattpad.com/903618377-softcore-drft","rating":0,"draft":true,"modifyDate":"2020-06-23T12:03:07Z","createDate":"2020-06-14T10:06:34Z","length":106,"videoId":"","photoUrl":"","commentCount":0,"voteCount":0,"readCount":3,"voted":false},{"id":909221644,"title":"b","url":"https://www.wattpad.com/909221644-softcore-b","rating":0,"draft":true,"modifyDate":"2020-06-25T15:55:32Z","createDate":"2020-06-24T05:35:01Z","length":3,"videoId":"","photoUrl":"","commentCount":0,"voteCount":0,"readCount":1,"voted":false}],"rankings":[],"tagRankings":[{"name":"bahasa","rank":903,"total":11474},{"name":"lowercase","rank":33,"total":140},{"name":"changlix","rank":492,"total":1902}],"isPaywalled":false},{"id":"216300245","title":"dating the moon","voteCount":0,"readCount":0,"commentCount":0,"description":"kronologi seperdua malam kacau balau","cover":"https://a.wattpad.com/cover/216300245-256-k457526.jpg","completed":false,"tags":[],"rating":0,"mature":false,"url":"https://www.wattpad.com/story/216300245-dating-the-moon","firstPartId":null,"numParts":1,"lastPublishedPart":{"id":847478543,"createDate":"2020-03-09T14:42:37Z"},"parts":[{"id":847478543,"title":"i","url":"https://www.wattpad.com/847478543-dating-the-moon-i","rating":0,"draft":true,"modifyDate":"2020-06-24T18:14:27Z","createDate":"2020-03-09T14:42:37Z","length":7,"videoId":"","photoUrl":"","commentCount":0,"voteCount":0,"readCount":0,"voted":false}],"rankings":[],"tagRankings":[],"isPaywalled":false},{"id":"215856897","title":"ursula","voteCount":0,"readCount":1,"commentCount":0,"description":"aku merasa sempurna. aku ulangi lagi. aku merasa sempurna.","cover":"https://a.wattpad.com/cover/215856897-256-k304926.jpg","completed":false,"tags":["hyunsung"],"rating":0,"mature":false,"url":"https://www.wattpad.com/story/215856897-ursula","firstPartId":null,"numParts":1,"lastPublishedPart":{"id":845674766,"createDate":"2020-03-04T14:55:23Z"},"parts":[{"id":845674766,"title":"&","url":"https://www.wattpad.com/845674766-ursula","rating":0,"draft":true,"modifyDate":"2020-03-04T15:45:29Z","createDate":"2020-03-04T14:55:23Z","length":327,"videoId":"","photoUrl":"","commentCount":0,"voteCount":0,"readCount":1,"voted":false}],"rankings":[],"tagRankings":[],"isPaywalled":false}],"total":28,"nextUrl":"https://www.wattpad.com/v4/users/paletteism/stories/all?fields=stories%28title%2ClastPublishedPart%2CvoteCount%2CreadCount%2CisPaywalled%2CcommentCount%2Ccover%2Ctags%2Curl%2Cid%2Cdescription%2Cmature%2Crating%2Crankings%2CtagRankings%2Ccompleted%2CnumParts%2CfirstPartId%2Cparts%29%2Ctotal%2CnextUrl%2CnumPublished%2CnumDrafts&limit=3&offset=3","numPublished":1,"numDrafts":27}},"user.paletteism.latest.activity.":{"data":{"pinnedItem":[]}}};
+    </script>
+<script type="text/javascript">
+
+        (function() {
+            var wattpad = window.wattpad = ( window.wattpad || {} );
+
+            wattpad.avatarSizes = [24, 32, 42, 48, 64, 84, 128, 256];
+            wattpad.coverSizes = [64, 80, 100, 128, 144, 160, 176, 200, 208, 256, 288, 352, 368, 416, 512];
+            wattpad.logoSizes = [140, 280, 420];
+            wattpad.backgroundSizes = [320, 640, 720, 1280, 1920 ];
+            wattpad.utils = {};
+            wattpad.digitsClientId = 'SPwmeBsZREoxgK6TTaRTgzsrs';
+            wattpad.googleClientId = '819350800788-s42oc45ge5shd8hkimbj2broh7l6j7h6.apps.googleusercontent.com';
+            wattpad.instagramClientId = '';
+            wattpad.apiAuthKey = 'IwKhVmNM7VXhnsVb0BabhS';
+            wattpad.canvaApiKey = 'gpJZaH8RjnukEBMR5tYrmnsY';
+            wattpad.apiDomain = 'https://api.wattpad.com';
+            wattpad.siteRoot = 'https://www.wattpad.com';
+            wattpad.branchKey = 'key_live_pgerP08EdSp0oA8BT3aZqbhoqzgSpodT';
+            wattpad.languagePackage = 'eb86bc83cebec7b5e11ac08e53fa53e0';
+            wattpad.userCountryCode = 'ID';
+            wattpad.userRegion = '';
+            wattpad.currentYear = '2020';
+            wattpad.usprivacy = '';
+            wattpad.testGroups = {"NEW_LANDING":true,"PAID_CONTENT":true,"MOVE_UP_OUTSTREAM":true,"ADS_PROMETHEUS_METRICS":true,"STORY_PLANNER":true,"ADS_DATADOG_METRICS":false,"LANGUAGE_DETECT":false,"EMBED":false,"CONTESTS_IN_MYWORKS":false,"CAN_VIEW_CCPA":false,"PROFILE_QUESTS":false,"WRITER_LINKS":false,"WEB_PAYMENTS":false,"WRITERS_PORTAL":false,"BLOCK_RTB":false,"OUTSTREAM_ELIGIBLE":false,"PAID_ROW_TAG_PAGES":true,"PAID_WRITER_INSIGHTS":false,"SENTIMENT_SURVEY":false,"SURVEY_DEVELOPMENT":false,"ADDSURVEYGIZMOCOOKIE":false,"STICKY_AD_ROLLOUT":false,"CD_METADATA_LIBRARY_BUTTON":false,"APP_DOWNLOAD_STICKY_BANNER_ENABLED":true,"IS_IN_LIVE_AD_DISABLED_GEO":false,"WATTYS_TAG":false,"STORY_SPOTLIGHT":false,"CONTEST_TAG":false,"WEB_COIN_PURCHASING":false,"TAXAMO_INSIGHTS_PURCHASING":false};
+
+            wattpad.user = {"username":"paletteism","avatar":"https://a.wattpad.com/useravatar/paletteism.128.474053.jpg","isPrivate":false,"backgroundUrl":"https://a.wattpad.com/userbg/paletteism.70350.jpg","follower":false,"following":false,"name":"⠀⠀⠀","description":",..\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀","gender":"Tidak diketahui","language":1,"locale":"id_ID","createDate":"2016-09-14T22:33:28Z","location":"someone's mind","verified":false,"ambassador":false,"facebook":"","twitter":"","website":"","smashwords":"","numStoriesPublished":1,"numFollowing":12,"numFollowers":175,"numLists":0,"verified_email":true,"allowCrawler":true,"birthdate":"1999-10-06T07:00:00Z","is_staff":false,"inbox":{"unread":0,"total":24},"notifications":{"unread":0},"age":20,"email":"tiaramhrnii@gmail.com","beta_enabled":false,"campfire_enabled":true,"new_home_enabled":true,"gemini_enabled":true,"gemini_welcome_story_id":9341306,"gemini_welcome_part_id":296285898,"gemini_welcome_message":"Selamat datang di profil baru Anda!","gemini_welcome_part_url":"https://www.wattpad.com/296285898-news-updates-august-16th-2016-the-new-wattpad","story_links_enabled":false,"wtg_status":null,"recommendedTags":["lgbt","taehyung","bangtan","jimin","shortstory","dark","jeongguk","bts","romance","jungkook"],"isMature":true,"has_accepted_latest_tos":true,"appear_offline":0,"show_name":1,"show_age":null,"notificationSettings":{"alerts":1,"alertssub":true,"alertssub_broadcast":true,"subscribe":1},"highlight_colour":"#D1A675","html_enabled":false,"wattpad_squad":false,"programs":{"wattpad_stars":false},"externalId":"d7d7183cfa5d8d5d9f2a808de786c7718cf9c588","isPremium":false,"id":116797895,"ga":{"logged":"1","created":"20160914","group":"20"},"isSysAdmin":false,"country":"ID","max_parts":200,"premium":false,"had_previous_subscription":false,"tier":0};
+
+            wattpad.isModerator = 0;
+
+            wattpad.supportedLangs = [{"id":1,"name":"English","translated":true,"locale":"en_US","code":"en","nameEnglish":"English","hreflangCode":"en","selected":false},{"id":2,"name":"Français","translated":true,"locale":"fr_FR","code":"fr","nameEnglish":"French","hreflangCode":"fr","selected":false},{"id":3,"name":"Italiano","translated":true,"locale":"it_IT","code":"it","nameEnglish":"Italian","hreflangCode":"it","selected":false},{"id":4,"name":"Deutsch","translated":true,"locale":"de_DE","code":"de","nameEnglish":"German","hreflangCode":"de","selected":false},{"id":5,"name":"Español","translated":true,"locale":"es_ES","code":"es","nameEnglish":"Spanish","hreflangCode":"es","selected":false},{"id":6,"name":"Português","translated":true,"locale":"pt_PT","code":"pt_PT","nameEnglish":"Portugese","hreflangCode":"pt","selected":false},{"id":38,"name":"Català","translated":true,"locale":"ca_ES","code":"ca","nameEnglish":"Catalan","hreflangCode":"ca","selected":false},{"id":19,"name":"Tiếng Việt","translated":true,"locale":"vi_VN","code":"vi","nameEnglish":"Vietnamese","hreflangCode":"vi","selected":false},{"id":18,"name":"Filipino","translated":true,"locale":"tl_PH","code":"tl","nameEnglish":"Tagalog","hreflangCode":"tl","selected":false},{"id":20,"name":"Bahasa Indonesia","translated":true,"locale":"id_ID","code":"id","nameEnglish":"Indonesian","hreflangCode":"id","selected":true},{"id":22,"name":"Bahasa Melayu","translated":false,"locale":"ms_MY","code":"ms","nameEnglish":"Malay","hreflangCode":"ms"},{"id":32,"name":"ภาษาไทย","translated":false,"locale":"th_TH","code":"th","nameEnglish":"Thai","hreflangCode":"th"},{"id":7,"name":"Русский","translated":true,"locale":"ru_RU","code":"ru","nameEnglish":"Russian","hreflangCode":"ru"},{"id":15,"name":"Română","translated":true,"locale":"ro_RO","code":"ro","nameEnglish":"Romanian","hreflangCode":"ro"},{"id":23,"name":"Türkçe","translated":true,"locale":"tr_TR","code":"tr","nameEnglish":"Turkish","hreflangCode":"tr"},{"id":24,"name":"Česky","translated":true,"locale":"cs_CZ","code":"cs","nameEnglish":"Czech","hreflangCode":"cs"},{"id":14,"name":"Polski","translated":true,"locale":"pl_PL","code":"pl","nameEnglish":"Polish","hreflangCode":"pl"},{"id":28,"name":"Magyar","translated":true,"locale":"hu_HU","code":"hu","nameEnglish":"Hungarian","hreflangCode":"hu"},{"id":30,"name":"ελληνικά","translated":true,"locale":"el_GR","code":"el","nameEnglish":"Greek","hreflangCode":"el"},{"id":35,"name":"Eesti","translated":false,"locale":"et_EE","code":"et","nameEnglish":"Estonian","hreflangCode":"et"},{"id":36,"name":"Latviešu","translated":false,"locale":"lv_LV","code":"lv","nameEnglish":"Latvian","hreflangCode":"lv"},{"id":37,"name":"Lietuvių","translated":false,"locale":"lt_LT","code":"lt","nameEnglish":"Lithuanian","hreflangCode":"lt"},{"id":39,"name":"Босански","translated":false,"locale":"bs_BA","code":"bs","nameEnglish":"Bosnian","hreflangCode":"bs"},{"id":40,"name":"Српски","translated":false,"locale":"sr_CS","code":"sr","nameEnglish":"Serbian","hreflangCode":"sr"},{"id":41,"name":"Hrvatski","translated":false,"locale":"hr_HR","code":"hr","nameEnglish":"Croatian","hreflangCode":"hr"},{"id":43,"name":"Български","translated":false,"locale":"bg_BG","code":"bg","nameEnglish":"Bulgarian","hreflangCode":"bg"},{"id":44,"name":"Slovenčina","translated":true,"locale":"sk_SK","code":"sk","nameEnglish":"Slovak","hreflangCode":"sk"},{"id":42,"name":"Slovenščina","translated":false,"locale":"sl_SI","code":"sl","nameEnglish":"Slovenian","hreflangCode":"sl"},{"id":45,"name":"Беларускі","translated":false,"locale":"be_BY","code":"be","nameEnglish":"Belarusian","hreflangCode":"be"},{"id":46,"name":"Українська","translated":true,"locale":"uk_UA","code":"uk","nameEnglish":"Ukrainian","hreflangCode":"uk"},{"id":26,"name":"Svenska","translated":true,"locale":"sv_SE","code":"sv","nameEnglish":"Swedish","hreflangCode":"sv"},{"id":27,"name":"Norsk","translated":true,"locale":"nn_NO","code":"nn","nameEnglish":"Norwegian","hreflangCode":"nn"},{"id":34,"name":"Suomi","translated":false,"locale":"fi_FI","code":"fi","nameEnglish":"Finnish","hreflangCode":"fi"},{"id":29,"name":"Dansk","translated":true,"locale":"da_DK","code":"da","nameEnglish":"Danish","hreflangCode":"da"},{"id":13,"name":"Nederlands","translated":true,"locale":"nl_NL","code":"nl","nameEnglish":"Dutch","hreflangCode":"nl"},{"id":33,"name":"Íslenska","translated":false,"locale":"is_IS","code":"is","nameEnglish":"Icelandic","hreflangCode":"is"},{"id":12,"name":"简体中文","translated":true,"locale":"zh_CN","code":"zh_CN","nameEnglish":"Simplified Chinese","hreflangCode":"zh-Hans"},{"id":8,"name":"繁體中文","translated":true,"locale":"zh_TW","code":"zh_TW","nameEnglish":"Traditional Chinese","hreflangCode":"zh-Hant"},{"id":9,"name":"日本語","translated":true,"locale":"ja_JP","code":"ja","nameEnglish":"Japanese","hreflangCode":"ja"},{"id":10,"name":"한국어","translated":true,"locale":"ko_KR","code":"ko","nameEnglish":"Korean","hreflangCode":"ko"},{"id":16,"name":"العربية","translated":true,"locale":"ar_EG","code":"ar","nameEnglish":"Arabic","hreflangCode":"ar"},{"id":53,"name":"ગુજરાતી","translated":false,"locale":"gu_IN","code":"gu","nameEnglish":"Gujarati","hreflangCode":"gu"},{"id":17,"name":"עברית","translated":true,"locale":"he_IL","code":"he","nameEnglish":"Hebrew","hreflangCode":"he"},{"id":21,"name":"हिन्दी","translated":true,"locale":"hi_IN","code":"hi","nameEnglish":"Hindi","hreflangCode":"hi"},{"id":25,"name":"മലയാളം","translated":false,"locale":"ml_IN","code":"ml","nameEnglish":"Malayalam","hreflangCode":"ml"},{"id":54,"name":"ଓଡ଼ିଆ","translated":false,"locale":"or_IN","code":"or","nameEnglish":"Oriya","hreflangCode":"or"},{"id":31,"name":"فارسی","translated":false,"locale":"fa_IR","code":"fa","nameEnglish":"Persian","hreflangCode":"fa"},{"id":55,"name":"ਪੰਜਾਬੀ","translated":false,"locale":"pa_IN","code":"pa","nameEnglish":"Punjabi","hreflangCode":"pa"},{"id":56,"name":"অসমীয়া","translated":false,"locale":"as_IN","code":"as","nameEnglish":"Assamese","hreflangCode":"as"},{"id":47,"name":"বাংলা","translated":false,"locale":"bn_BD","code":"bn","nameEnglish":"Bengali","hreflangCode":"bn"},{"id":48,"name":"اُردُو‎","translated":false,"locale":"ur_PK","code":"ur","nameEnglish":"Urdu","hreflangCode":"ur"},{"id":49,"name":"தமிழ்","translated":false,"locale":"ta_IN","code":"ta","nameEnglish":"Tamil","hreflangCode":"ta"},{"id":50,"name":"Kiswahili","translated":false,"locale":"sw_TZ","code":"sw","nameEnglish":"Swahili","hreflangCode":"sw"},{"id":51,"name":"Afrikaans","translated":false,"locale":"af_ZA","code":"af","nameEnglish":"Afrikaans","hreflangCode":"af"},{"id":57,"name":"मराठी","translated":false,"locale":"mr_IN","code":"mr","nameEnglish":"Marathi","hreflangCode":"mr"},{"id":11,"name":"Other","translated":false,"locale":null,"code":"en","nameEnglish":"Other","hreflangCode":"en"}];
+
+            wattpad.translatedLangs = [{"id":1,"name":"English","translated":true,"locale":"en_US","code":"en","nameEnglish":"English","hreflangCode":"en","selected":false},{"id":2,"name":"Français","translated":true,"locale":"fr_FR","code":"fr","nameEnglish":"French","hreflangCode":"fr","selected":false},{"id":3,"name":"Italiano","translated":true,"locale":"it_IT","code":"it","nameEnglish":"Italian","hreflangCode":"it","selected":false},{"id":4,"name":"Deutsch","translated":true,"locale":"de_DE","code":"de","nameEnglish":"German","hreflangCode":"de","selected":false},{"id":5,"name":"Español","translated":true,"locale":"es_ES","code":"es","nameEnglish":"Spanish","hreflangCode":"es","selected":false},{"id":6,"name":"Português","translated":true,"locale":"pt_PT","code":"pt_PT","nameEnglish":"Portugese","hreflangCode":"pt","selected":false},{"id":38,"name":"Català","translated":true,"locale":"ca_ES","code":"ca","nameEnglish":"Catalan","hreflangCode":"ca","selected":false},{"id":19,"name":"Tiếng Việt","translated":true,"locale":"vi_VN","code":"vi","nameEnglish":"Vietnamese","hreflangCode":"vi","selected":false},{"id":18,"name":"Filipino","translated":true,"locale":"tl_PH","code":"tl","nameEnglish":"Tagalog","hreflangCode":"tl","selected":false},{"id":20,"name":"Bahasa Indonesia","translated":true,"locale":"id_ID","code":"id","nameEnglish":"Indonesian","hreflangCode":"id","selected":true},{"id":7,"name":"Русский","translated":true,"locale":"ru_RU","code":"ru","nameEnglish":"Russian","hreflangCode":"ru"},{"id":15,"name":"Română","translated":true,"locale":"ro_RO","code":"ro","nameEnglish":"Romanian","hreflangCode":"ro"},{"id":23,"name":"Türkçe","translated":true,"locale":"tr_TR","code":"tr","nameEnglish":"Turkish","hreflangCode":"tr"},{"id":24,"name":"Česky","translated":true,"locale":"cs_CZ","code":"cs","nameEnglish":"Czech","hreflangCode":"cs"},{"id":14,"name":"Polski","translated":true,"locale":"pl_PL","code":"pl","nameEnglish":"Polish","hreflangCode":"pl"},{"id":28,"name":"Magyar","translated":true,"locale":"hu_HU","code":"hu","nameEnglish":"Hungarian","hreflangCode":"hu"},{"id":30,"name":"ελληνικά","translated":true,"locale":"el_GR","code":"el","nameEnglish":"Greek","hreflangCode":"el"},{"id":44,"name":"Slovenčina","translated":true,"locale":"sk_SK","code":"sk","nameEnglish":"Slovak","hreflangCode":"sk"},{"id":46,"name":"Українська","translated":true,"locale":"uk_UA","code":"uk","nameEnglish":"Ukrainian","hreflangCode":"uk"},{"id":26,"name":"Svenska","translated":true,"locale":"sv_SE","code":"sv","nameEnglish":"Swedish","hreflangCode":"sv"},{"id":27,"name":"Norsk","translated":true,"locale":"nn_NO","code":"nn","nameEnglish":"Norwegian","hreflangCode":"nn"},{"id":29,"name":"Dansk","translated":true,"locale":"da_DK","code":"da","nameEnglish":"Danish","hreflangCode":"da"},{"id":13,"name":"Nederlands","translated":true,"locale":"nl_NL","code":"nl","nameEnglish":"Dutch","hreflangCode":"nl"},{"id":12,"name":"简体中文","translated":true,"locale":"zh_CN","code":"zh_CN","nameEnglish":"Simplified Chinese","hreflangCode":"zh-Hans"},{"id":8,"name":"繁體中文","translated":true,"locale":"zh_TW","code":"zh_TW","nameEnglish":"Traditional Chinese","hreflangCode":"zh-Hant"},{"id":9,"name":"日本語","translated":true,"locale":"ja_JP","code":"ja","nameEnglish":"Japanese","hreflangCode":"ja"},{"id":10,"name":"한국어","translated":true,"locale":"ko_KR","code":"ko","nameEnglish":"Korean","hreflangCode":"ko"},{"id":16,"name":"العربية","translated":true,"locale":"ar_EG","code":"ar","nameEnglish":"Arabic","hreflangCode":"ar"},{"id":17,"name":"עברית","translated":true,"locale":"he_IL","code":"he","nameEnglish":"Hebrew","hreflangCode":"he"},{"id":21,"name":"हिन्दी","translated":true,"locale":"hi_IN","code":"hi","nameEnglish":"Hindi","hreflangCode":"hi"}];
+
+            wattpad.experiments = {};
+
+            wattpad.harm = [{"words":["suicide","depression","depressed","cut","cuts","cutting","selfharm","self harm","self-harm","I want to die","I want to kill myself"],"message":["If you are struggling with thoughts of self-harm or suicide, help is available. Some online trends are harmful. Remember to think critically about what you see online so that you stay safe.%s Don't hesitate to reach out for help: %s, %s","<br/><br/>","<a href=\"https://support.wattpad.com/hc/en-us/articles/200774284-Counseling-and-Prevention-Resources\" target=\"_blank\">https://support.wattpad.com/hc/en-us/articles/200774284-Counseling-and-Prevention-Resources</a>","<a href=\"https://safetyportal.wattpad.com\" target=\"_blank\">https://safetyportal.wattpad.com</a>"]},{"words":["pro-ana","proana","anorexia","anorexic","bulimia","bulimic","thinspo","thinspiration","promia"],"message":["If you or someone you know is struggling with an eating disorder or weight issues, please know that help is available.%s For residents in the U.S., contact the National Eating Disorders Association Helpline at 1-800-931-2237 (%s).%s For residents in Canada, contact 1-866-633-4220 (%s).%s Help for other countries can be found at %s.","<br/><br/>","<a href=\"http://www.nationaleatingdisorders.org\" target=\"_blank\">www.nationaleatingdisorders.org</a>","<br/><br/>","<a href=\"http://www.nedic.ca\" target=\"_blank\">www.nedic.ca</a>","<br/><br/>","<a href=\"http://w.tt/1csPgyo\" target=\"_blank\">http://w.tt/1csPgyo</a>"]},{"words":["daddy kink","daddys girl","ddlg","forced","kidnap","kidnapping","little girl","magcon","masterandslut","masterxslave","punishments","rape-fantasy","rough","sex-slave","sexslave","slave","slavery","slavexmaster","sold","stepdad","stepdaughter","sub","teacherxstudent","torture","virgin"],"message":["Consent in any relationship is important and the terms you are searching could contain triggering content where consent is not always clear. Some online trends are harmful. Remember to think critically about what you see online so that you stay safe. %s%s","<br/><br/>","<a href=\"https://safetyportal.wattpad.com/youth-portal/adult-content\" target=\"_blank\">Check out our Safety Portal</a> to learn more about consent and keeping yourself safe."]}];
+
+            wattpad.outstreamVideoCountries = ["CA","US","GB"];
+
+            wattpad.adzerkHeaderBiddingUnitMap = {"storylanding_top":{"zone":185196,"sizes":{"5":[300,250]}},"storylanding_bottom":{"zone":185197,"sizes":{"4":[728,90]}},"readingshort_top":{"zone":185429,"sizes":{"5":[300,250]}},"readingshort_bottom":{"zone":185431,"sizes":{"4":[728,90]}},"readingshort_comments":{"zone":185430,"sizes":{"5":[300,250]}},"readinglong_top":{"zone":185432,"sizes":{"5":[300,250],"43":[300,600]}},"readinglong_mid":{"zone":185433,"sizes":{"5":[300,250],"43":[300,600]}},"readinglong_bottom":{"zone":185435,"sizes":{"4":[728,90]}},"readinglong_comments":{"zone":185434,"sizes":{"5":[300,250]}},"readingshort_top_loggedout":{"zone":185436,"sizes":{"5":[300,250]}},"readingshort_bottom_loggedout":{"zone":185438,"sizes":{"4":[728,90]}},"readingshort_comments_loggedout":{"zone":185437,"sizes":{"5":[300,250]}},"readinglong_top_loggedout":{"zone":185439,"sizes":{"5":[300,250],"43":[300,600]}},"readinglong_mid_loggedout":{"zone":185440,"sizes":{"5":[300,250],"43":[300,600]}},"readinglong_bottom_loggedout":{"zone":185442,"sizes":{"4":[728,90]}},"readinglong_comments_loggedout":{"zone":185441,"sizes":{"5":[300,250]}},"storylanding_bottom_mweb":{"zone":185453,"sizes":{"23":[320,50]}},"readingshort_bottom_mweb":{"zone":185454,"sizes":{"23":[320,50]}},"readingshort_bottom_loggedout_mweb":{"zone":188377,"sizes":{"23":[320,50]}},"readinglong_mid_mweb":{"zone":185455,"sizes":{"5":[300,250],"23":[320,50]}},"readinglong_bottom_mweb":{"zone":185456,"sizes":{"23":[320,50]}},"readinglong_mid_loggedout_mweb":{"zone":185457,"sizes":{"5":[300,250],"23":[320,50]}},"readinglong_bottom_loggedout_mweb":{"zone":185458,"sizes":{"23":[320,50]}},"readinglong_top_loggedout_mweb":{"zone":210614,"sizes":{"23":[320,50]}},"readinglong_top_mweb":{"zone":210612,"sizes":{"23":[320,50]}},"readingshort_top_loggedout_mweb":{"zone":210613,"sizes":{"23":[320,50]}},"readingshort_top_mweb":{"zone":210611,"sizes":{"23":[320,50]}}};
+
+          wattpad.mediaServer = '//a.wattpad.com';
+          wattpad.mediaService = '//loadbalancer-media-production-1.wattpad.com';
+          wattpad.spielbergoData = '[{"video":"ZHEb0F7BZGY","story":"38820105"}]';
+          wattpad.newCurationProfiles = '[{"code":"en","username":"WattpadExplorer"},{"code":"tl","username":"readinglistsph"},{"code":"id","username":"readinglistsid"},{"code":"es","username":"readinglistses"},{"code":"de","username":"readinglistsde"},{"code":"fr","username":"readinglistsfr"},{"code":"it","username":"readinglistsit"},{"code":"nl","username":"readinglistsnl"},{"code":"pt_PT","username":"readinglistspt"},{"code":"tr","username":"readingliststr"},{"code":"ml","username":"readinglistsmy"},{"code":"vi","username":"readinglistsvn"},{"code":"ru","username":"readinglistsru"}]';
+          wattpad.directAdCountries = '["CA","US"]';
+
+          wattpad.tagBgColours = '["#ff7744","#ff9b77","#ffae4d","#ffc477","#6dbec0","#87dbdb","#6d7fc0","#8799db"]';
+          wattpad.tagTextColours = '["#5c1900","#822200","#6f3c00","#703f00","#004345","#005353","#000c3b","#001152"]';
+
+          wattpad.tagCountLimit = '25';
+
+        }());
+    </script>
+<script type="text/javascript">
+      window.mobileApp=window.mobileApp||{},window.mobileApp.xhrLoad=function(n){"use strict";n.XMLHttpFactories=[function(){return new n.XMLHttpRequest},function(){return new ActiveXObject("Msxml2.XMLHTTP")},function(){return new ActiveXObject("Msxml3.XMLHTTP")},function(){return new ActiveXObject("Microsoft.XMLHTTP")}],n.createXMLHTTPObject=function(){for(var t=!1,e=0;e<n.XMLHttpFactories.length;e++){try{t=n.XMLHttpFactories[e]()}catch(t){continue}break}return t},n.injectScript=function(t){var e=n.createXMLHTTPObject();if(e)try{e.onreadystatechange(function(){if(4===e.readyState&&200===e.status){var t=n.document.createElement("script");t.type="text/javascript",t.text=e.responseText,n.document.getElementsByTagName("head")[0].appendChild(t)}}),e.open("GET",t,!1),e.send("")}catch(t){}}},window.mobileApp.xhrLoad(window),window.mobileApp.reload=function(t,e,n){"use strict";var r,i;if(void 0!==window.dependencyFailure&&!window.dependencyFailure){i=function(t){for(var e,n=0,r=t.length;n<r;n++){e=window;for(var i=0,o=t[n].obj.length;i<o;i++){if(void 0===e[t[n].obj[i]])return t[n].name;e=e[t[n].obj[i]]}}return!1},r=function(){for(var t="",e="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",n=0;n<7;n++)t+=e.charAt(Math.floor(Math.random()*e.length));return t};var o=t||e,c=o.split("?"),a=1<c.length?c[1]:"v="+r();if(!(o=c[0]||o)||!i(n))return;if(window.injectScript(o+"?"+a),!o||!i(n))return;window.injectScript(e+"?"+a),window.dependencyFailure=(o?"":"no-src|")+i(n)}};
+//# sourceMappingURL=xhr-load.min.js.map
+
+</script>
+<script type="text/javascript">
+        window.dependencyFailure = false;
+    </script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js" crossorigin="anonymous"></script><iframe name="__uspapiLocator" __idm_frm__="724" style="display: none;"></iframe>
+<script type="text/javascript">
+        if (typeof window.jQuery === "undefined") {
+            document.write('<script type="text/javascript" src="/js/jquery-1.12.2.min.js"><\/script>');
+        }
+    </script>
+<script type="text/javascript">
+      !function(e){"use strict";e.mobileApp=e.mobileApp||{},e.mobileApp.reload(null,"https://www.wattpad.com/js/jquery-1.12.2.min.js",[{name:"jquery",obj:["jQuery"]}])}(window);
+//# sourceMappingURL=jquery-retry.min.js.map
+
+</script>
+<script>
+        var wp = window.wattpad || {};
+        wp.utils = {};
+        wp.app_id = 2582347323;
+        wp.facebook_app_name = 'wattpad';
+    </script>
+<script type="text/javascript" src="//a.wattpad.com/js/desktop-web/dependencies.min.js?v=cc6bebc"></script>
+<script type="text/javascript" src="//a.wattpad.com/js/moment-locale/id_ID.js"></script>
+<script>
+    moment.locale('id_ID');
+  </script>
+<script type="text/javascript" src="//a.wattpad.com/js/desktop-web/app.js?v=e174484"></script>
+<script type="text/javascript" src="//a.wattpad.com/js/react-bundle.deps.js?v=6b24bc1"></script>
+<script type="text/javascript" src="//a.wattpad.com/js/react-bundle.components.js?v=de56445"></script>
+<script type="text/javascript">
+   var parsedStore = {"userData":{"locale":"id_ID","ff":"1"},"appData":{"translatedLangs":[{"id":1,"name":"English","translated":true,"locale":"en_US","code":"en","nameEnglish":"English","hreflangCode":"en"},{"id":2,"name":"Français","translated":true,"locale":"fr_FR","code":"fr","nameEnglish":"French","hreflangCode":"fr"},{"id":3,"name":"Italiano","translated":true,"locale":"it_IT","code":"it","nameEnglish":"Italian","hreflangCode":"it"},{"id":4,"name":"Deutsch","translated":true,"locale":"de_DE","code":"de","nameEnglish":"German","hreflangCode":"de"},{"id":5,"name":"Español","translated":true,"locale":"es_ES","code":"es","nameEnglish":"Spanish","hreflangCode":"es"},{"id":6,"name":"Português","translated":true,"locale":"pt_PT","code":"pt_PT","nameEnglish":"Portugese","hreflangCode":"pt"},{"id":38,"name":"Català","translated":true,"locale":"ca_ES","code":"ca","nameEnglish":"Catalan","hreflangCode":"ca"},{"id":19,"name":"Tiếng Việt","translated":true,"locale":"vi_VN","code":"vi","nameEnglish":"Vietnamese","hreflangCode":"vi"},{"id":18,"name":"Filipino","translated":true,"locale":"tl_PH","code":"tl","nameEnglish":"Tagalog","hreflangCode":"tl"},{"id":20,"name":"Bahasa Indonesia","translated":true,"locale":"id_ID","code":"id","nameEnglish":"Indonesian","hreflangCode":"id"},{"id":7,"name":"Русский","translated":true,"locale":"ru_RU","code":"ru","nameEnglish":"Russian","hreflangCode":"ru"},{"id":15,"name":"Română","translated":true,"locale":"ro_RO","code":"ro","nameEnglish":"Romanian","hreflangCode":"ro"},{"id":23,"name":"Türkçe","translated":true,"locale":"tr_TR","code":"tr","nameEnglish":"Turkish","hreflangCode":"tr"},{"id":24,"name":"Česky","translated":true,"locale":"cs_CZ","code":"cs","nameEnglish":"Czech","hreflangCode":"cs"},{"id":14,"name":"Polski","translated":true,"locale":"pl_PL","code":"pl","nameEnglish":"Polish","hreflangCode":"pl"},{"id":28,"name":"Magyar","translated":true,"locale":"hu_HU","code":"hu","nameEnglish":"Hungarian","hreflangCode":"hu"},{"id":30,"name":"ελληνικά","translated":true,"locale":"el_GR","code":"el","nameEnglish":"Greek","hreflangCode":"el"},{"id":44,"name":"Slovenčina","translated":true,"locale":"sk_SK","code":"sk","nameEnglish":"Slovak","hreflangCode":"sk"},{"id":46,"name":"Українська","translated":true,"locale":"uk_UA","code":"uk","nameEnglish":"Ukrainian","hreflangCode":"uk"},{"id":26,"name":"Svenska","translated":true,"locale":"sv_SE","code":"sv","nameEnglish":"Swedish","hreflangCode":"sv"},{"id":27,"name":"Norsk","translated":true,"locale":"nn_NO","code":"nn","nameEnglish":"Norwegian","hreflangCode":"nn"},{"id":29,"name":"Dansk","translated":true,"locale":"da_DK","code":"da","nameEnglish":"Danish","hreflangCode":"da"},{"id":13,"name":"Nederlands","translated":true,"locale":"nl_NL","code":"nl","nameEnglish":"Dutch","hreflangCode":"nl"},{"id":12,"name":"简体中文","translated":true,"locale":"zh_CN","code":"zh_CN","nameEnglish":"Simplified Chinese","hreflangCode":"zh-Hans"},{"id":8,"name":"繁體中文","translated":true,"locale":"zh_TW","code":"zh_TW","nameEnglish":"Traditional Chinese","hreflangCode":"zh-Hant"},{"id":9,"name":"日本語","translated":true,"locale":"ja_JP","code":"ja","nameEnglish":"Japanese","hreflangCode":"ja"},{"id":10,"name":"한국어","translated":true,"locale":"ko_KR","code":"ko","nameEnglish":"Korean","hreflangCode":"ko"},{"id":16,"name":"العربية","translated":true,"locale":"ar_EG","code":"ar","nameEnglish":"Arabic","hreflangCode":"ar"},{"id":17,"name":"עברית","translated":true,"locale":"he_IL","code":"he","nameEnglish":"Hebrew","hreflangCode":"he"},{"id":21,"name":"हिन्दी","translated":true,"locale":"hi_IN","code":"hi","nameEnglish":"Hindi","hreflangCode":"hi"}]},"deviceData":{"isMobile":false,"isDesktop":true},"wallet":{"amount":0,"animationStep":"default","id":"wp1","fetched":false},"purchase":{"isPurchasing":false,"amountSpent":0,"buyingPart":false},"threads":{"isLoading":true,"isLoadingMore":false,"threads":[],"filter":"","total":0,"offset":0},"conversation":{"isActive":false,"isLoading":true,"isLoadingMore":false,"isDeleting":false,"isPosting":false,"messages":[],"badges":[],"scrollToMessageId":-1,"total":0,"offset":0,"isBlockingCurrentUser":false,"isBlockedByCurrentUser":false},"paidMetadata":{"parts":{},"stories":{}},"modal":{"modalProps":null},"popover":{"popoverProps":{}},"contestForm":{"isLoading":true,"hasCheckedSubmission":false,"hasSubmitted":false,"hasAddedWattysTag":false,"cover":"","title":"","data":{"story_id":null,"contest_submission":{"contest":"","submitted_t":0,"language":"","award_category":"","subgenre":"","subgenre_secondary":"","sexual_content":"","is_exclusive":true,"target_audience":"","mature_themes":[],"opportunities":[],"authors_msg":"","plot_details":{"summary":"","logline":""}}}},"storyTags":{"tags":[]},"homeSections":{"sections":[],"sectionBounds":{}},"storyInsights":{},"profileData":{"mutedUsers":[],"hasLoaded":false},"toast":{"toastProps":null},"catalog":{"featuredList":[],"paidStoriesTags":[],"paidStoriesListByTag":{},"paidStoriesListOffset":0,"isLoadingPaidStories":false,"hasTagsLoaded":false},"quests":{"isLoading":true,"mapById":{},"mapByEmbeddedType":{}},"storyNotes":{"isLoading":true,"hasNotesBeenVisible":false,"data":{"id":null,"protagonist":{"name":null,"other_names":"","pronoun":null,"attributes":"","extrovert_introvert":null,"likeable":null,"focus_past_future":null,"thinking_feeling":null,"decisive_improvise":null,"laidback_serious":null,"personality_change":null},"protagonist_goal":{"description":"","physical_emotional":null,"type":null,"change_themselves_surroundings":null,"explore_emotions_world":null,"navigate_familiar_unfamiliar":null,"recall_past":null,"find_meaning":null,"take_keep":null,"outcome":"","succeed":null,"outcome_feeling":null},"opportunity":{"interested":null,"logline":"","story_progress":null,"types":null}}},"worksItemDetails":{"worksItemDetailsActiveTab":"toc"}};
+   window.store = window.app.components.createStore(parsedStore);
+  </script>
+<script type="text/javascript">
+      window.mobileApp=window.mobileApp||{},window.mobileApp.appStart=function(t){"use strict";void 0===t.dependencyFailure||t.dependencyFailure?(t.onerror=null,t.document.cookie="mw-no=true; path=/",t.location.reload(!0)):$(function(){$.ajaxSetup({beforeSend:function(t,e){if(/\/(apiv2|api\/v3|v4|v5)\//.test(e.url)){t.setRequestHeader("Authorization",app.get("api-key-web"));var a=wattpad.utils.getCookie("wattpad_test");if(a&&t.setRequestHeader("X-WP-Test-Auth",a),/\/v5\/home/.test(e.url)){var o=app.get("translatedLanguage");o&&t.setRequestHeader("X-Accept-Language",o.locale)}}}}),"ontouchstart"in t||$("body").addClass("touchDisabled"),$(t).on("keyup",function(t){27===t.which&&$(".modal.fade.in").each(function(){var t=$(this);t&&t.data("bs.modal")&&t.data("bs.modal").options.keyboard&&t.modal("hide")})}),t.wattpad.utils.bootstrapReactRoot(),t.app.start({pushState:!0})})},window.mobileApp.appStart(window);
+//# sourceMappingURL=app-start.min.js.map
+
+</script>
+<script type="text/javascript">
+      !function(a,b,c,d,e,f,g){a.wpAnalytics=e,a[e]=a[e]||[],
+        a[e].push=function(){
+          null!==arguments[arguments.length-1]&&"object"==typeof arguments[arguments.length-1]
+            ?arguments[arguments.length-1].ts=1*new Date
+            :Array.prototype.push.call(arguments,{ts:1*new Date}),
+            Array.prototype.push.call(this,arguments)
+        },f=b.createElement(c),g=b.getElementsByTagName(c)[0],
+        f.async=1,f.src=d,g.parentNode.insertBefore(f,g)
+      }(window,window.document,"script","//a.wattpad.com/js/tracker/app.js?v=5fc4875","te");
+    </script>
+<script type="text/javascript">
+      window.te.push('create', 'desktop-web', null, window.wattpad.user ? window.wattpad.user.id : null);
+    </script>
+<script type="text/javascript">
+      (function() {
+          var ad = document.getElementById( 'ad-bait' );
+          if ( !ad || ad.innerHTML.length === 0 || ad.clientHeight === 0 ) {
+              window.wattpad.utils.pushEvent( {
+                  category: 'ads',
+                  action: 'ad-block-on'
+              } );
+          }
+          ad.style.display = 'none';
+      })();
+  </script>
+<script type="text/javascript">
+    (function() {
+        var referer = undefined;
+
+      var parseUrl = function() {
+        var parsedUrl = document.URL.match( /^(?:https?\:\/\/)?(?:www\.)?(?:[^\/?#]+)(?:\/)([a-zA-z0-9]+)?(?:\/)?([-a-zA-Z]+|[0-9]+)?(?:[\/]?[\?]?(?:view=|q=))?([a-zA-Z\+]+)?/i );
+        return {
+          page : parsedUrl[1],
+          view : parsedUrl[2],
+          storyid : parsedUrl[2],
+          filter : parsedUrl[3]
+        }
+      };
+
+      this.top.location !== this.location && (this.top.location = this.location);
+
+      var teSend = function( eventType, channel, referer, page, filter, storyid ) {
+        if ( window.te === undefined ) {
+          return;
+        }
+
+        if ( page === 'story' || !isNaN( page ) ) {
+          if ( !isNaN( page ) ) {
+            storyid = parseInt( page );
+            page = 'story';
+          } else {
+            storyid = parseInt( storyid );
+          }
+
+          window.te.push( 'event', 'wattpad', null, null, eventType, { 'channel': channel, 'referer': referer, 'page': page, 'storyid': storyid } );
+          return;
+        } else if ( typeof page === 'undefined' ) {
+          page = 'signup';
+        }
+
+        window.te.push( 'event', 'wattpad', null, null, eventType, { 'channel': channel, 'referer': referer, 'page': page, 'filter': filter } );
+      };
+
+      var trackNavigation = function() {
+        var parsedUrl = parseUrl();
+
+        var parsedChannel = null;
+        if ( window.referralDetails ) {
+          parsedChannel = window.referralDetails.channel;
+        }
+        if ( parsedUrl.page && parsedUrl.page.indexOf( 'stories' ) > -1 && parsedUrl.view !== undefined ) {
+          page = parsedUrl.view;
+        }
+
+        if ( referer === undefined ) {
+          teSend( 'start', parsedChannel, 'direct', parsedUrl.page, parsedUrl.filter, parsedUrl.storyid );
+          return;
+        }
+
+        var pagereferer = referer.match( /^(https?\:\/\/)?(?:www\.)?([^\/?#]+)(?:[\/?#]|$)/i )[2];
+        if ( pagereferer.indexOf( 'wattpad' ) > -1 ) {
+          teSend( 'navigate', parsedChannel, null, parsedUrl.page, parsedUrl.filter, parsedUrl.storyid );
+        }
+        else {
+          teSend( 'start', parsedChannel, pagereferer, parsedUrl.page, parsedUrl.filter, parsedUrl.storyid );
+        }
+      };
+
+      var getReferral = function() {
+        if ( _.isEmpty(window._utms) ) {
+          return {};
+        }
+        var details = {
+            source: window._utms.source,
+            channel: window._utms.medium,
+            content: window._utms.content,
+            campaign: window._utms.campaign,
+            page: window._utms.page,
+            originator: window._utms.originator
+          },
+          path = window.location.pathname,
+          entity = 'other';
+
+        if ( path.indexOf( 'comment/' ) !== -1 ) {
+          var match = document.URL.match( /\/(\d){2,}/i );
+          if (match !== null) {
+            entity = 'comment';
+            details.partid = match[1];
+          }
+        }
+        else if ( path.indexOf( 'story/' ) !== -1 ) {
+          var match = document.URL.match( /\/story\/(\w*)/i );
+          if (match !== null) {
+            entity = 'story';
+            details.storyid = match[1];
+          }
+        }
+        else if ( path.indexOf( 'user/' ) !== -1 ) {
+          var match = document.URL.match( /\/user\/(\w*)/i );
+          if (match !== null) {
+            entity = 'user';
+            details.username = match[1];
+          }
+        }
+        else if ( path.indexOf( 'list/' ) !== -1 ) {
+          var match = document.URL.match( /\/list\/(\w*)/i );
+          if (match !== null) {
+            entity = 'reading_list';
+            details.reading_listid = match[1];
+          }
+        }
+        else {
+          var match = document.URL.match( /\/(\d{2,})/i );
+          if (match !== null) {
+            entity = 'part';
+            details.partid = match[1];
+          }
+        }
+        if ( details.source === 'email-invite' || details.campaign === 'invitefriends' ) {
+          entity = 'invite_friends';
+        }
+        window.te.push( 'event', 'wattpad', entity, null, 'deeplink', details );
+        return details;
+      };
+
+      window.referralDetails = getReferral();
+      trackNavigation();
+    })();
+  </script>
+<script>
+    wattpad.translation = {"":{"domain":"messages","plural_forms":"nplurals=1; plural=0;","lang":"id"},"%s Work":["%s karya"],"%s Follower":["%s pengikut"],"%1$s by %2$s":["%1$s oleh %2$s"],"#%1$s in %2$s":["#%1$s dalam %2$s"],"See all rankings":["Lihat semua peringkat"],"Published":["Dipublikasikan"],"Draft":["Draf"],"only visible to you":["hanya dapat dilihat oleh Anda"],"Be part of a global community of readers and writers, all connected through the power of story.":["Jadilah bagian komunitas global pembaca dan penulis, yang saling terhubung melalui kekuatan cerita."],"By continuing, you agree to Wattpad's <a href='/terms'>Terms of Service</a> and <a href='/privacy'>Privacy Policy</a>.":[""],"Sign up with Email":[""],"If you already have an account, ":[""],"Log in.":[""],"Sign up with Facebook":[""],"Sign up with Google":[""],"Create Reading List":["Buat daftar bacaan"],"Story by %s":["Cerita oleh %s"],"%s Published Story":["%s cerita dipublikasikan"],"%s Draft":["%s draf"],"Show more":["Tampilkan lainnya"],"Loading...":["Memuat..."],"Check out %s's profile on Wattpad":["Lihat profil %s di Wattpad"],"Check out %s's profile on #Wattpad":["Lihat profil %s di #Wattpad"],"Check out my profile on Wattpad, I'm %s":["Lihat profil saya di Wattpad, saya %s"],"Check out my profile on #Wattpad, I'm %s":["Lihat profil saya di #Wattpad, saya %s"],"Share via Facebook":["Bagikan melalui Facebook"],"Share via Twitter":["Bagikan melalui Twitter"],"Share via Pinterest":["Bagikan melalui Pinterest"],"Share via Tumblr":["Bagikan melalui Tumblr"],"Share via Email":["Bagikan melalui email"],"Joined":["Bergabung"],"Following":["Mengikuti"],"Share profile":["Bagikan profil"],"Currently editing your profile":["Sedang mengedit profil Anda"],"Save Changes":["Simpan perubahan"],"Cancel":["Batalkan"],"Change Background Image":["Ubah gambar latar belakang"],"%s's profile":["Profil %s"],"Full name":["Nama lengkap"],"Profile Metadata\u0004Work":["Karya"],"Profile Metadata\u0004Reading List":["Daftar bacaan"],"Profile Metadata\u0004Follower":["Pengikut"],"About":["Perihal"],"Conversations":["Percakapan"],"Wallet with %s Coins":["Dompet dengan %s Koin"],"Coin":["Koin"],"Edit Profile":["Edit profil"],"Continue":["Lanjutkan"],"Close Account":["Tutup akun"],"Save":["Simpan"],"Language":["Bahasa"],"Home":["Halaman utama"],"Browse":["Jelajahi"],"Wattpad Picks":["Pilihan Wattpad"],"Community":["Komunitas"],"Forums":["Forum"],"The Watty Awards":["Watty Awards"],"Search":["Telusuri"],"Autocomplete":["Lengkapi secara otomatis"],"Write":["Tulis"],"Create a new story":["Buat cerita baru"],"My Stories":["Cerita saya"],"Writing Contests":["Kontes Menulis"],"Try Premium":["Coba Premium"],"User":["Pengguna"],"Profile":["Profil"],"My Profile":["Profil saya"],"Inbox":["Kotak masuk"],"Notifications":["Notifikasi"],"Newsfeed":["Kronologi aktivitas"],"Library":["Perpustakaan"],"Invite Friends":["Undang teman"],"Help":["Bantuan"],"Settings":["Pengaturan"],"Log Out":["Logout"],"Footer Links":[""],"Paid Stories":["Paid Stories"],"Get the App":["Dapatkan Aplikasinya"],"Writers":["Penulis"],"Business":["Bisnis"],"Jobs":["Pekerjaan"],"Press":["Pers"],"Legal Footer Links":[""],"Terms":["Persyaratan"],"Privacy":["Privasi"]};
+  </script>
+<script type="text/javascript">
+      !function(){var d="hidden";function n(n){var e,i,t={focus:"visible",focusin:"visible",pageshow:"visible",blur:"hidden",focusout:"hidden",pagehide:"hidden"};"start"===(e=(n=n||window.event).type in t?"hidden"===t[n.type]?"stop":"start":this[d]?"stop":"start")&&(i={premium:wattpad.utils.getCurrentUserAttr("premium")?1:0});window.te.push("event","app","session",null,e,i)}d in document?document.addEventListener("visibilitychange",n):(d="mozHidden")in document?document.addEventListener("mozvisibilitychange",n):(d="webkitHidden")in document?document.addEventListener("webkitvisibilitychange",n):(d="msHidden")in document?document.addEventListener("msvisibilitychange",n):"onfocusin"in document?document.onfocusin=document.onfocusout=n:window.onpageshow=window.onpagehide=window.onfocus=window.onblur=n,void 0!==document[d]&&n({type:document[d]?"blur":"focus"})}();
+//# sourceMappingURL=page-visibility.min.js.map
+
+</script>
+<script type="text/javascript">
+      window.setInterval(function(){window.te.push("event","app","session",null,"ping",{page:window.te.getPage()})},3e4);
+//# sourceMappingURL=session-pings.min.js.map
+
+</script>
+<iframe width="0" height="0" frameborder="0" scrolling="no" src="https://ssum.casalemedia.com/usermatch?s=185638&amp;cb=https%3A%2F%2Fe-9660.adzerk.net%2Fudb%2F9660%2Fsync%2Fi.gif%3FpartnerId%3D1%26userId%3D" style="display: none;" marginheight="0" marginwidth="0"></iframe>
+
+
+
+<form method="POST" id="beacon_form" enctype="application/x-www-form-urlencoded" action="/v4/metrics" target="boomerang_post-https%3A%2F%2Fwww.wattpad.com%2Fuser%2Fpaletteism-0.2858751604847283" style="display: none;"><input type="hidden" name="rt.start" value="navigation"><input type="hidden" name="rt.tstart" value="1593117492681"><input type="hidden" name="rt.bstart" value="1593117505400"><input type="hidden" name="rt.end" value="1593117505748"><input type="hidden" name="t_resp" value="2098"><input type="hidden" name="t_page" value="10969"><input type="hidden" name="t_done" value="13067"><input type="hidden" name="r" value=""><input type="hidden" name="nt_red_cnt" value="0"><input type="hidden" name="nt_nav_type" value="1"><input type="hidden" name="nt_nav_st" value="1593117492681"><input type="hidden" name="nt_red_st" value="0"><input type="hidden" name="nt_red_end" value="0"><input type="hidden" name="nt_fet_st" value="1593117492684"><input type="hidden" name="nt_dns_st" value="1593117492684"><input type="hidden" name="nt_dns_end" value="1593117492684"><input type="hidden" name="nt_con_st" value="1593117492684"><input type="hidden" name="nt_con_end" value="1593117492684"><input type="hidden" name="nt_req_st" value="1593117492701"><input type="hidden" name="nt_res_st" value="1593117494779"><input type="hidden" name="nt_res_end" value="1593117495110"><input type="hidden" name="nt_domloading" value="1593117495908"><input type="hidden" name="nt_domint" value="1593117503194"><input type="hidden" name="nt_domcontloaded_st" value="1593117503194"><input type="hidden" name="nt_domcontloaded_end" value="1593117505205"><input type="hidden" name="nt_domcomp" value="0"><input type="hidden" name="nt_load_st" value="0"><input type="hidden" name="nt_load_end" value="0"><input type="hidden" name="nt_unload_st" value="1593117495872"><input type="hidden" name="nt_unload_end" value="1593117495873"><input type="hidden" name="nt_spdy" value="1"><input type="hidden" name="nt_cinf" value="h2"><input type="hidden" name="nt_first_paint" value="1593117499.258"><input type="hidden" name="u" value="https://www.wattpad.com/user/paletteism"><input type="hidden" name="v" value="0.9.1454699113"><input type="hidden" name="vis.st" value="visible"></form><script type="text/javascript" id="">(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";b.parentNode.insertBefore(a,b)})();</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=18767423&amp;cv=2.0&amp;cj=1">
+</noscript><script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1422218544461353");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1422218544461353&amp;ev=PageView&amp;noscript=1"></noscript></body></html>
